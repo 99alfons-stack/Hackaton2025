@@ -1,0 +1,31 @@
+body {
+    background-color: #1b1b1b;
+
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+h1 {
+    color: #478CBF;
+}
+p {
+    color: #FFFFFF;
+    font-size: 150%;
+}
+ul {
+    color: #FFFFFF;
+}
+a {
+    color: #478CBF;
+}
+button {
+    background-color: #478CBF;
+    border-radius: 12px;
+    border: 2px solid #414042;
+    color: #FFFFFF;
+}
+button:hover {
+    background-color: #53a1dd;
+    border-radius: 12px;
+    border: 2px solid #5c5a5d;
+}
