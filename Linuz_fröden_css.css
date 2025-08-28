@@ -1,14 +1,14 @@
 
 body {
     background-color: black;
-    color: bisque;
+    color: white;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 h1, h2, h3 {
-    color: beige;
+    color: white;
 }
 a {
     color: aqua;
