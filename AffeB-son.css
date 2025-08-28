@@ -1,10 +1,15 @@
 body{ 
-background-color:azure;
+background-color:whitesmoke;
 color:black;
+font-family: Arial, sans-serif;
+margin: 20px;
+
 
 }
 
 head{
-
-
+    background-color:lightgray;
+    padding: 10px;
 }
+
+
