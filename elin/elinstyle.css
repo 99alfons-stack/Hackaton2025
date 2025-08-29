@@ -61,9 +61,6 @@ li {
  margin-bottom: 15px;
 }
 
-#CTA {
- 
-}
 
 #pic{
     display: flex;
@@ -71,7 +68,6 @@ li {
     align-items: center;
     max-width: 40%;
     margin-right: 20px;
-
 }
 
 img {
