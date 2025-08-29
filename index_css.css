@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-color: black;
+    width: 100vw;
+}
+h1{
+    color: azure;
+    text-align: center;
+    margin-top: 0;
+}
+.pagetype{
+    display: block;
+    width: 100%;
+    justify-content: center;
+}
+.button {
+    display: inline-flex;
+    margin: 70px;
+}
+.buttons{
+    justify-content: center;
+    margin-top: 150px;
+}
+button{
+    font-size:  24px;
+    width: 100px;
+    height: 100px;
+}
