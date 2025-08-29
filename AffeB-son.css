@@ -1,15 +1,12 @@
 body{ 
-background-color:black;
-color:white;
-font-family: cursive; align-items: center;
-margin: 20px;
-
-
+  background-color:black;
+  color:white;
+  font-family: cursive; align-items: center;
+  margin: 20px;
 }
 button {
-    transition:all 0.3s ease;
-
-  background-color: green
+  transition:all 0.3s ease;
+  background-color: green;
   color: white;
   border: aqua;
   border-radius: 10px;
@@ -18,5 +15,5 @@ button {
 }
 button:hover {
   background-color: darkgreen;
-    transform:translateY(-5px);
+  transform:translateY(-5px);
 }
