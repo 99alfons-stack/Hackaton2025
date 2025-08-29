@@ -1,0 +1,111 @@
+body {
+    font-family: "Lato", sans-serif;
+    padding-right: 5%;
+    padding-left: 5%;
+    flex-direction: column;
+    align-items: center;
+    background: #EDAF9F;
+    color: #BD4338;
+}
+
+
+.bowlby-one-regular {
+  font-family: "Bowlby One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+header {
+    color:#EDAF9F;
+    background-color: #BD4338;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 6em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+#headline{
+    font-family: "Bowlby One", sans-serif;
+ 
+}
+
+li {
+  
+ font-weight: 700;   
+ font-size: 20px;
+ margin-bottom: 15px;
+}
+
+#CTA {
+ 
+}
+
+#pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 40%;
+    margin-right: 20px;
+
+}
+
+img {
+    background-color: brown;
+    display: block;
+    margin: auto;
+    margin-right: auto;
+    max-width: 90%;
+    
+    
+}
+
+#buttons {
+    padding-top: 30px;
+}
+
+div {
+    padding-bottom: 30px;
+}
+
+header {
+    padding:5%;
+    display:flex;
+    justify-content: center;
+}
+
+button {
+    background-color:#EDAF9F;
+    padding: 15px;
+    border-radius: 10px;
+    border-color: #BD4338;
+    color: #BD4338;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
