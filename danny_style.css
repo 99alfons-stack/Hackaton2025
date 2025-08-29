@@ -32,4 +32,5 @@ button:hover {
     border-radius: 12px;
     border: 2px solid #5c5a5d;
     box-shadow: 0 0 10px #FFFFFF;
+    transform: translatey(-1px);
 }
