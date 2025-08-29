@@ -9,7 +9,7 @@ margin: 20px;
 button {
     transition:all 0.3s ease;
 
-  background-color: green
+  background-color: green;
   color: white;
   border: aqua;
   border-radius: 10px;
