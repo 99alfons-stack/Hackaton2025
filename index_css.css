@@ -1,12 +1,14 @@
 body{
     margin: 0;
-    background-color: black;
+    background-color: rgb(32, 32, 32);
     width: 100vw;
 }
 h1{
     color: azure;
     text-align: center;
-    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 60px;
+    margin-top: 30PX;
 }
 .pagetype{
     display: block;
@@ -15,9 +17,10 @@ h1{
 }
 .button {
     display: inline-flex;
-    margin: 70px;
+    margin: 5%;
 }
 .buttons{
+    display: flex;
     justify-content: center;
     margin-top: 150px;
 }
